@@ -14,6 +14,11 @@ You will also have to obtain either [```Stack```](https://docs.haskellstack.org/
 
 Although part of ```Pythas``` source is implemented in Haskell, you will not need to download any Haskell libraries and it will keep your global Haskell environment untouched.
 
+## Contributing
+
+If you find any mistakes, typos or have questions regarding any of the example notebooks, feel free to raise an issue on GitHub. 
+I'd be very happy to add some more applied examples. So if you have a FOSS project that uses ```Pythas``` and you think it would be a good fit, let me know! Of course your example can be licensed differently than the rest of the notebooks.
+
 ## License
 
 ```Pythas``` is licensed under the LGPLv3 license. Some low level parts are useful enough to be available under the ```MIT``` license. This will be specified in their respective repositories.
